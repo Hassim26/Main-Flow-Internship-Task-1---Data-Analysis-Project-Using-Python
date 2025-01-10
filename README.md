@@ -2,6 +2,6 @@
 
 
 **Install the required libraries :**
->> pip install pandas <<
->> pip install seaborn <<
->> pip install matplotlib.pyplot <<
+1. **`pip install pandas`**
+2. **`pip install seaborn`**
+3. **`pip install matplotlib.pyplot`**
